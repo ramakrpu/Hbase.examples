@@ -1,0 +1,23 @@
+put 'emp_details', '1', 'Personal:name', 'John'
+put 'emp_details', '1', 'Personal:age', '25'
+put 'emp_details', '1', 'Professional:designation', 'SE'
+put 'emp_details', '1', 'Professional:project', 'Platform'
+
+
+put 'emp_details', '2', 'Personal:name', 'Ram'
+put 'emp_details', '2', 'Personal:age', '30'
+put 'emp_details', '2', 'Professional:designation', 'ITA'
+put 'emp_details', '2', 'Professional:project', 'Platform'
+
+put 'emp_details', '3', 'Personal:name', 'Bob'
+put 'emp_details', '3', 'Personal:DOB', '1995'
+put 'emp_details', '3', 'Professional:designation', 'ASE'
+put 'emp_details', '3', 'Professional:project', 'Datahub'
+
+put 'emp_details', '4', 'Personal:name', 'Sam'
+put 'emp_details', '4', 'Professional:designation', 'ITA'
+put 'emp_details', '4', 'Professional:project', 'Analytics'
+
+put 'emp_details', '5', 'Personal:name', 'Steve'
+put 'emp_details', '5', 'Personal:age', '28'
+put 'emp_details', '5', 'Professional:project', 'Datahub'
