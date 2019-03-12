@@ -39,3 +39,12 @@ get 'table_name', 'rowid'
 get 'emp_details', '1'
 ```
 
+4. Full Scan on Table
+
+`Syntax:`
+```
+scan 'table_name'
+```
+```
+scan 'emp_details'
+```
