@@ -27,7 +27,7 @@ put 'table_name', 'rowid', 'ColumnFamily1:Column1',... 'ColumnFamilyn:Columnn'
 ```
 put 'emp_details', '1', 'Personal:name', 'John'
 ```
-*To insert the remaining rows, copy paste the commands mentioned in insert_data_commands.txt onto HBase Shell*
+*To insert the remaining rows, copy paste the commands mentioned in Insert_data_commands.txtt onto HBase Shell*
 
 3. Get data 
 
